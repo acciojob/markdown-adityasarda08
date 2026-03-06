@@ -10,3 +10,20 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.textarea {
+  font-size: 16px;
+  line-height: 1.5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.preview {
+  font-size: 16px;
+  line-height: 1.5;
+}
